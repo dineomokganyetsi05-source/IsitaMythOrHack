@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Is it a MYTH OR HACK</string>
+    <string name="life_hack_or_myth">Life Hack or Myth</string>
+    <string name="test_your_knowledge_and_learn_which_life_hack_actually_work_and_which_are_just_inernet_myths">test your knowledge and learn which life hack actually work and which are just inernet myths</string>
+    <string name="start">START</string>
+    <string name="question">QUESTION</string>
+</resources>
